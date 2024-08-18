@@ -7,6 +7,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtNvK-QsuhzpnzL_PaeJb3u
 ## 课程标题
 
 01. Ollama 构建本地大语言模型 Local LLM
+02. Ollama 构建本地大语言模型 - 定制运行模型
 
 ## 小马部落
 
