@@ -13,6 +13,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtNvK-QsuhzpnzL_PaeJb3u
 05. Ollama 构建本地大语言模型 - 使用 Open WebUI 访问 Ollama 模型
 06. Ollama LangChain - 使用 LangChain 调用 Ollama 运行模型
 07. Ollama LangChain - LCEL 链式调用
+08. Ollama LangChain - 模型工具调用 call tools
 
 ## 小马部落
 
