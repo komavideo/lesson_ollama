@@ -14,6 +14,7 @@ https://www.youtube.com/playlist?list=PLliocbKHJNwtNvK-QsuhzpnzL_PaeJb3u
 06. Ollama LangChain - 使用 LangChain 调用 Ollama 运行模型
 07. Ollama LangChain - LCEL 链式调用
 08. Ollama LangChain - 模型工具调用 call tools
+09. Ollama LangChain - 多模态调用 multi-modal
 
 ## 小马部落
 
